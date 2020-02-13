@@ -1,0 +1,22 @@
+TODO List:
+
+-Commands don't always get input correctly
+-Implement cancel partial command from command creator menu
+-Add in customizable macros for each button
+-add manual as how to play
+-PSP locked up while cancelling incant menu?
+
+FIXED List:
+-menu_scrollbar still doesn't work
+-Can't exit from Viewer::MODE_MAP 
+-Fix the date on the save/load file menu
+-Fix intro background to have PSP and PSP Port by darkweb
+-Menu for overwriting save files that already exist
+-Can draw a keyboard image for the modified incant command
+-Save game sometimes doesn't work from the start menu
+	Didn't close the files after checking if they existed therefore
+	I couldn't add anything else.
+-Fix up the Incant keyboard menu
+	Now has an image to display the keys and the user can navigate through it
+-add a type menu for items
+-Add saving for screenMode
